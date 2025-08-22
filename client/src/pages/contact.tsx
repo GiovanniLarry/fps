@@ -15,7 +15,8 @@ export default function ContactPage() {
               <p className="text-gray-300 mb-3">Have a question about tracking or your account?</p>
               <ul className="list-disc list-inside space-y-1">
                 <li>Email: <a href="mailto:fedexPackShipping@gmail.com" className="text-blue-300 hover:underline">fedexPackShipping@gmail.com</a></li>
-                <li>Phone: <a href="tel:+12723638722" className="text-blue-300 hover:underline">+1 (272) 363-8722</a></li>
+                <li>Phone: <a href="tel:+19312279175" className="text-blue-300 hover:underline">+1 (931) 227-9175</a></li>
+                <li>WhatsApp: <a href="https://wa.me/12723638722" className="text-blue-300 hover:underline">+1 (272) 363-8722</a></li>
                 <li>Hours: Monday–Friday, 9:00–18:00 (local time)</li>
               </ul>
             </div>
@@ -25,7 +26,8 @@ export default function ContactPage() {
               <p className="text-gray-300 mb-3">Looking for a custom plan or enterprise features?</p>
               <ul className="list-disc list-inside space-y-1">
                 <li>Email: <a href="mailto:fedexPackShipping@gmail.com" className="text-blue-300 hover:underline">fedexPackShipping@gmail.com</a></li>
-                <li>Phone: <a href="tel:+12723638722" className="text-blue-300 hover:underline">+1 (272) 363-8722</a></li>
+                <li>Phone: <a href="tel:+19312279175" className="text-blue-300 hover:underline">+1 (931) 227-9175</a></li>
+                <li>WhatsApp: <a href="https://wa.me/12723638722" className="text-blue-300 hover:underline">+1 (272) 363-8722</a></li>
                 <li>Response time: within 1 business day</li>
               </ul>
             </div>
@@ -35,7 +37,8 @@ export default function ContactPage() {
               <p className="text-gray-300 mb-3">For media inquiries and brand resources.</p>
               <ul className="list-disc list-inside space-y-1">
                 <li>Email: <a href="mailto:fedexPackShipping@gmail.com" className="text-blue-300 hover:underline">fedexPackShipping@gmail.com</a></li>
-                <li>Phone: <a href="tel:+12723638722" className="text-blue-300 hover:underline">+1 (272) 363-8722</a></li>
+                <li>Phone: <a href="tel:+19312279175" className="text-blue-300 hover:underline">+1 (931) 227-9175</a></li>
+                <li>WhatsApp: <a href="https://wa.me/12723638722" className="text-blue-300 hover:underline">+1 (272) 363-8722</a></li>
               </ul>
             </div>
 
