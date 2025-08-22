@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: fedpacktrack
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: HOST
+        value: 0.0.0.0
+
+databases:
+  - name: fedpacktrack-db
+    databaseName: fedpacktrack
+    user: fedpacktrack_user
